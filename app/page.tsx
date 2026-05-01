@@ -6,10 +6,10 @@ const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
   process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
-const siteId = process.env.SITE_ID || "kskindaily";
-const siteName = process.env.SITE_NAME || "K Blog";
-const siteDesc = process.env.SITE_DESCRIPTION || "";
-const siteColor = process.env.SITE_COLOR || "#0071e3";
+const siteId = process.env.SITE_ID || "dailyhallyuwave";
+const siteName = process.env.SITE_NAME || "Daily Hallyu Wave";
+const siteDesc = process.env.SITE_DESCRIPTION || "K-pop, K-drama, K-food and Korean culture daily";
+const siteColor = process.env.SITE_COLOR || "#6c5ce7";
 
 interface Post {
   slug: string;
