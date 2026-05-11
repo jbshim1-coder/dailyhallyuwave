@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://kskindaily.com/kskindaily-iu-skincare-routine-korean-actress-glass-skin-secrets\",\"prompt\":\"이 페이지에 YouTube iframe 또는 K-MEDI TV 영상 embed가 있는지 확인해줘. \\\"Watch on K-MEDI TV\\\" 텍스트나 youtube.co...",
+  "error": "ECONNREFUSED",
+  "timestamp": "2026-05-10T08:35:13.043Z",
+  "retry_count": 1
+}
